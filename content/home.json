@@ -1,0 +1,5 @@
+{
+  "title": "Welcome to My Static Site",
+  "description": "This is a sample static site with Tina CMS integration.",
+  "content": "<p>This is the main content of the homepage. You can edit this content using Tina CMS.</p>"
+}
